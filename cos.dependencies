@@ -22,7 +22,7 @@
     "repository": "android_kernel_samsung_msm8660-common",
     "target_path": "kernel/samsung/msm8660-common",
     "branch": "cm-10.1"
-  }
+  },
   {
     "project": "ChameleonOS",
     "repository": "android_vendor_samsung_hercules",
